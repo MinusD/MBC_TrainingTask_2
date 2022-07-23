@@ -1,0 +1,2 @@
+TOKEN: str = 'token here'
+CMD_PREFIX: str = '>'
